@@ -20,7 +20,7 @@ const greeting = {
 const socialMediaLinks = {
     github: "https://github.com/lusinealeqs",
     linkedin: "https://www.linkedin.com/in/lusinealeqs",
-    gmail: "lusinealeksanyan01@gmail.com",
+    gmail: "lusinecodes@gmail.com",
     facebook: "https://www.facebook.com/lusinealeqs",
     instagram: "https://www.instagram.com/lusinealeqs_/",
     twitter: "https://twitter.com/LusineAleqs",
@@ -309,7 +309,7 @@ const contactInfo = {
     subtitle:
         "Discuss a project or just want to say hi? My Inbox is open for all.",
     number: "(818) 210 9111",
-    email_address: "lusinealeksanyan01@gmail.com",
+    email_address: "lusinecodes@gmail.com",
 };
 
 // Twitter Section
